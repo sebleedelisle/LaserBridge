@@ -1,0 +1,12 @@
+<group>
+	<Show_Zones>0</Show_Zones>
+	<Show_Laser_Path>1</Show_Laser_Path>
+<group/>
+<Show_Preview>1</Show_Preview>
+<scale>2</scale>
+<SVG_scale>1.3859</SVG_scale>
+<Show_zones>0</Show_zones>
+	<Show_preview>1</Show_preview>
+	<Use_bitmap_mask>0</Use_bitmap_mask>
+	<Show_bitmap_mask>0</Show_bitmap_mask>
+</group>
