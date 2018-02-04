@@ -10,7 +10,7 @@ docs/tagfile.xml
 */*/bin/*
 !*/*/bin/data/
 
-!/apps/*
+
 # for bin folder in root
 /bin/*
 !/bin/data/
@@ -121,4 +121,6 @@ Desktop.ini
 *.filters
 *.user
 *.rc
+
+!/apps/*
 
