@@ -1,12 +1,12 @@
 <Projector1>
-	<ARMED>1</ARMED>
-	<Intensity>0.145455</Intensity>
+	<ARMED>0</ARMED>
+	<Intensity>0.163636</Intensity>
 	<Test_Pattern>0</Test_Pattern>
 	<Projector_settings>
-		<Points_per_second>32300</Points_per_second>
+		<Points_per_second>31600</Points_per_second>
 		<Colour_change_offset>-1.3692</Colour_change_offset>
 		<Laser_on_while_moving>0</Laser_on_while_moving>
-		<Move_Speed>6.49954</Move_Speed>
+		<Move_Speed>4.70269</Move_Speed>
 		<Blank_points_before>1</Blank_points_before>
 		<On_points_before>1</On_points_before>
 		<On_points_after>1</On_points_after>
@@ -18,8 +18,8 @@
 	</Projector_settings>
 	<Render_profiles>
 		<Default>
-			<speed>40</speed>
-			<acceleration>1.94162</acceleration>
+			<speed>20.6189</speed>
+			<acceleration>1.20514</acceleration>
 			<corner_threshold>40.2855</corner_threshold>
 			<dot_max_points>14</dot_max_points>
 		</Default>

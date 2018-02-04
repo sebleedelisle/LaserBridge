@@ -22,7 +22,7 @@ void ofApp::setup(){
     laser.gui.loadFont("Verdana.ttf", 8, false);
     
     ofParameterGroup params;
-    params.add(scale.set("SVG scale", 2, 0.1,3));
+    params.add(scale.set("SVG scale", 1, 0.1,3));
     laser.gui.add(params);
     currentSVG = 0;
     
