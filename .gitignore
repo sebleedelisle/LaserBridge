@@ -10,6 +10,7 @@ docs/tagfile.xml
 */*/bin/*
 !*/*/bin/data/
 
+!/apps/*
 # for bin folder in root
 /bin/*
 !/bin/data/
